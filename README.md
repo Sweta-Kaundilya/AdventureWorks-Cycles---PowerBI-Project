@@ -1,1 +1,1 @@
-# AdventureWorks-Cycles---PowerBI-Project
+# AdventureWorks Cycles-PowerBI Project
